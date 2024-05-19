@@ -212,3 +212,6 @@ initiad tx mstaking edit-validator \
 --gas auto \
 --gas-prices 0.15uinit \
 -y
+
+```
+### Core-Node-Team Rehberini kaynak olarak kullandım. Core Node ekibine teşekkürler.![image](https://github.com/zeycan1/INITIA/assets/108004368/878b7428-0b65-4937-bbbe-dcfed54a7de2)
